@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "937241476553",
+    "firebase_url": "https://firebaslogin-7df33.firebaseio.com",
+    "project_id": "firebaslogin-7df33",
+    "storage_bucket": "firebaslogin-7df33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937241476553:android:06f6504671da9d26",
+        "android_client_info": {
+          "package_name": "aryan.com.firebaslogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937241476553-rgm79jvem5os7fmjqtfcu9gn47jgm82s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "aryan.com.firebaslogin",
+            "certificate_hash": "12715e183aa4811aee984c1e382fa902a9bd71e0"
+          }
+        },
+        {
+          "client_id": "937241476553-gtjpieioc24855me4ujd96k6k2qhgtaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8bMLQEwbOoMfvJSR3T21VmX-0X4xrq6U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937241476553-gtjpieioc24855me4ujd96k6k2qhgtaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
